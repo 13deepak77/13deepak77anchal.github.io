@@ -1,0 +1,39 @@
+body{
+	background: linear-gradient(rgba(178, 187, 179),rgba(0, 0, 50, 0.5)),url(img/bil.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.login-box{
+	max-width: 700px;
+	float: none;
+	margin: 150px auto;
+}
+
+.login-left{
+	background: rgba(55, 189, 102 );
+	padding: 30px;
+}
+.login-right{
+	background: #27F76F ;
+padding: 30px;
+}
+
+
+
+.form-control{
+	background-color: transparent !important;
+}
+
+a{
+	color: #fff !important;
+	margin-top: -200px !important;
+}
+
+h1{
+	color:	#F5EE09  !important;
+	margin-top: 200px !important;
+	text-align: center;
+	text-transform: uppercase;
+	
+}
